@@ -52,15 +52,6 @@ Welcome to my GitHub! I'm a passionate **Computer Engineering student** and a cu
 
 ---
 
-## 💡 Passions
-
-- **Building impactful apps** that make daily life easier or more fun
-- **Learning new technologies** and best practices
-- **Collaborating** with creative, driven people
-- **Open Source:** I love sharing code, learning from others, and contributing to the community
-
----
-
 ## 🌍 Languages
 
 - 🇮🇹 Italian (native)
